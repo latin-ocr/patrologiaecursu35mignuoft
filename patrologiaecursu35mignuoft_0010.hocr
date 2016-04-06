@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiaecursu35mignuoft/patrologiaecursu35mignuoft_0010.png"; bbox 0 0 1802 3004; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 764 73 1232 137">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 764 73 1232 137">
+     <span class='ocr_line' id='line_1_1' title="bbox 764 73 1232 137; baseline 0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 764 73 1176 137; x_wconf 85' lang='lat' dir='ltr'>ELENCHUS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1230 133 1232 137; x_wconf 79' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 231 273 1704 314">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 231 273 1704 314">
+     <span class='ocr_line' id='line_1_2' title="bbox 231 273 1704 314; baseline -0.003 -6"><span class='ocrx_word' id='word_1_3' title='bbox 231 277 482 311; x_wconf 72' lang='lat' dir='ltr'>AUCTORUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 502 277 561 307; x_wconf 77' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_5' title='bbox 581 276 775 306; x_wconf 76' lang='lat' dir='ltr'><strong>OPERUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 787 276 890 314; x_wconf 75' lang='lat' dir='ltr'>QUAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 905 275 955 305; x_wconf 75' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_8' title='bbox 967 275 1058 305; x_wconf 82' lang='lat' dir='ltr'>Hoc</span> <span class='ocrx_word' id='word_1_9' title='bbox 1076 275 1206 305; x_wconf 83' lang='grc' dir='ltr'><strong>ΤΟΜΟ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1221 275 1353 306; x_wconf 81' lang='lat' dir='ltr'>XXXV</span> <span class='ocrx_word' id='word_1_11' title='bbox 1367 273 1704 305; x_wconf 77' lang='lat' dir='ltr'>CONTINENTUR.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 231 611 1703 650">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 231 611 1703 650">
+     <span class='ocr_line' id='line_1_3' title="bbox 231 611 1703 650; baseline -0.001 -7"><span class='ocrx_word' id='word_1_12' title='bbox 231 614 261 643; x_wconf 84' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_13' title='bbox 285 613 514 643; x_wconf 81' lang='lat' dir='ltr'>GREGORIUS</span> <span class='ocrx_word' id='word_1_14' title='bbox 534 612 793 650; x_wconf 82' lang='lat' dir='ltr'>THEOLOGUS,</span> <span class='ocrx_word' id='word_1_15' title='bbox 820 611 1156 643; x_wconf 79' lang='lat' dir='ltr'><strong>ARCHIEPISCOPUS</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1180 611 1703 643; x_wconf 80' lang='lat' dir='ltr'><strong>CONSTANTINOPOLITANUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 158 704 1790 737">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 158 704 1790 737">
+     <span class='ocr_line' id='line_1_4' title="bbox 158 704 1790 737; baseline 0.001 -3"><span class='ocrx_word' id='word_1_17' title='bbox 158 704 334 736; x_wconf 57' lang='lat' dir='ltr'>arationes.</span> <span class='ocrx_word' id='word_1_18' title='bbox 1656 704 1705 735; x_wconf 77' lang='lat' dir='ltr'>coc</span> <span class='ocrx_word' id='word_1_19' title='bbox 1731 707 1790 737; x_wconf 79' lang='lat'>393</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1669 2763 1775 2767">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1669 2763 1775 2767">
+     <span class='ocr_line' id='line_1_5' title="bbox 1669 2763 1775 2767; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 1669 2763 1775 2767; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1168 2780 1776 2820">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1168 2780 1776 2820">
+     <span class='ocr_line' id='line_1_6' title="bbox 1168 2780 1776 2820; baseline 0.012 -14"><span class='ocrx_word' id='word_1_21' title='bbox 1168 2780 1205 2806; x_wconf 77' lang='lat' dir='ltr'>Ex</span> <span class='ocrx_word' id='word_1_22' title='bbox 1223 2781 1304 2815; x_wconf 74' lang='lat' dir='ltr'>Typis</span> <span class='ocrx_word' id='word_1_23' title='bbox 1328 2781 1444 2814; x_wconf 67' lang='lat' dir='ltr'>Mic-NE,</span> <span class='ocrx_word' id='word_1_24' title='bbox 1467 2790 1499 2808; x_wconf 79' lang='lat' dir='ltr'>au</span> <span class='ocrx_word' id='word_1_25' title='bbox 1526 2782 1776 2820; x_wconf 65' lang='lat' dir='ltr'>Petit-Montrouge·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
